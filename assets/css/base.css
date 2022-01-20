@@ -1,0 +1,48 @@
+.search-category {
+    color: black;
+    border: 1px solid rgb(218, 185, 185);
+    background-color: rgb(248, 245, 245);
+    border-radius: 5px;
+    float: right;
+}
+
+.search-category:hover {
+    color: black;
+    border: 1px solid rgb(218, 185, 185);
+    background-color: rgb(233, 171, 171);
+    border-radius: 5px;
+    float: right;
+}
+
+.btn-light{
+    background-color: rgb(238, 115, 115);
+    border: none;
+    
+}
+
+
+.media-body p {
+    color: rgb(31, 30, 30);
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.set-Del{
+    font-size: 20px;
+    border: 1px solid rgb(194, 193, 193);
+    cursor: pointer;
+    padding: 5px 0px 5px 0px;
+    color: rgb(236, 102, 102);
+    background-color: rgb(231, 218, 201);
+}
+
+.set-Del:hover{
+    color: rgb(236, 227, 227) !important;
+    cursor: pointer;
+    background-color: rgb(238, 34, 27);
+    border: 1px solid rgb(218, 135, 135);
+}
+
+.form-control{
+    border: 2px solid rgb(172, 169, 169);
+}
