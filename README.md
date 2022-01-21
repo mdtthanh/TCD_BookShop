@@ -1,9 +1,10 @@
 PROJECT CUỐI KÌ THỰC HÀNH CƠ SỞ DỮ LIỆU
 Đề tài: Website bán sách
+<br>
 Thành viên:
-  Mai Đào Tuấn Thành
-  Phạm Huy Cảnh
-  Trần Nam Dương
+  - Mai Đào Tuấn Thành
+  - Phạm Huy Cảnh
+  - Trần Nam Dương
 
 Công nghệ sử dụng: 
   - Front end: HTML/CSS/Javascript + Bootstrap ....
